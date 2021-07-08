@@ -1,4 +1,7 @@
 
+# made by milkyid
+# rock - paper - scissors game
+
 import random
 import tkinter
 from tkinter import ttk
